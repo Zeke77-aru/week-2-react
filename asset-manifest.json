@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/week-2-react/static/css/main.ebc515ae.chunk.css",
+    "main.js": "/week-2-react/static/js/main.915ff235.chunk.js",
+    "main.js.map": "/week-2-react/static/js/main.915ff235.chunk.js.map",
+    "runtime-main.js": "/week-2-react/static/js/runtime-main.58f4cc9e.js",
+    "runtime-main.js.map": "/week-2-react/static/js/runtime-main.58f4cc9e.js.map",
+    "static/js/2.47725032.chunk.js": "/week-2-react/static/js/2.47725032.chunk.js",
+    "static/js/2.47725032.chunk.js.map": "/week-2-react/static/js/2.47725032.chunk.js.map",
+    "index.html": "/week-2-react/index.html",
+    "static/css/main.ebc515ae.chunk.css.map": "/week-2-react/static/css/main.ebc515ae.chunk.css.map",
+    "static/js/2.47725032.chunk.js.LICENSE.txt": "/week-2-react/static/js/2.47725032.chunk.js.LICENSE.txt",
+    "static/media/Apps.css": "/week-2-react/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58f4cc9e.js",
+    "static/js/2.47725032.chunk.js",
+    "static/css/main.ebc515ae.chunk.css",
+    "static/js/main.915ff235.chunk.js"
+  ]
+}
